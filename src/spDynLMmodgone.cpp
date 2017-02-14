@@ -596,8 +596,8 @@ extern "C" {
        }
 
 
-       beta[t*p]=tempbeta[0];
-       beta[t*p+1]=tempbeta[1];
+       // beta[t*p]=tempbeta[0];
+       // beta[t*p+1]=tempbeta[1];
 
        /************/
 
